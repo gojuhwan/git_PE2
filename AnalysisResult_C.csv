@@ -1,0 +1,2 @@
+﻿Lot,Wafer,Mask,TestSite,Name,Date,Script ID,Script Version,Script Owner,Operator,Row,Column,ErrorFlag,Error description,Analysis Wavelength,Rsq of Ref.spectrum (Nth),Max transmission of Ref. spec. (dB),Rsq of IV,I at -1V [A],I at -2V [A]
+HY202103,D07,LION1,DCM_LMZC,MZMCTE_LULAB_450_500,Mon Jul 15 19:10:52 2019,LMZ,0.1,Go,ykim,0,0,0,No Error,1550,0.9985874111530743,-7.655776023864746,0.9985871151294207,8.955287e-09,0.006707282
